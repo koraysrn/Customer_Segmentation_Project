@@ -1,0 +1,17 @@
+name: CustomerEnv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - xgboost
+  - imbalanced-learn
+
+
+
+  
